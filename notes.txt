@@ -1,0 +1,10 @@
+#Nameserver Cloudflare	
+        anton.ns.cloudflare.com
+        holly.ns.cloudflare.com
+
+#URL public + custom
+        mafiq28.pages.dev
+        mafiq28.com
+
+#URL private-site
+        private.mafiq28.com
