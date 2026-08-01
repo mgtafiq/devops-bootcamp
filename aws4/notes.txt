@@ -1,0 +1,12 @@
+[
+    [
+        "nat-0c3eada4aac62c2b6",
+        "available"
+    ]
+]
+[
+    "13.229.22.91"
+]
+[
+    "071231919820.dkr.ecr.ap-southeast-1.amazonaws.com/devops-bootcamp/afiq"
+]
