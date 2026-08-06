@@ -1,0 +1,9 @@
+#Nota Cloudflare 2
+ 1- Cipta security group dan allow to nginx berserta inboud rule http & https
+ 2- Cipta EC2 berserta SG dan pasang elastic IP
+ 3- Connect EC2 via SSM dan install nginx 
+ 4- Setup web domain type A dengan Elastic IP dan biar status proxy ke DNS only
+ 5- Bezakan proxied dan DNS only dengan command dig web.domain +short
+ 6- Tukar SSL kepada flexible supaya laman dapat diakses dengan selamat menggunakan HTTP
+ 7- Cipta cloudflare tunnel untuk akses servis private ke internet dan setup subdomain  
+ 
