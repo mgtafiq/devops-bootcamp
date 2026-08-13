@@ -1,0 +1,13 @@
+#Alamat ECR image
+071231919820.dkr.ecr.ap-southeast-1.amazonaws.com/devops-bootcamp/afiq:latest
+
+#Senarai Network
+NETWORK ID     NAME      DRIVER    SCOPE
+71e7662d06d7   arena     bridge    local
+20acfceb4cc0   bridge    bridge    local
+f74752ffc2e7   host      host      local
+c4df7ccd4301   none      null      local
+
+#Senarai Volume
+DRIVER    VOLUME NAME
+local     me
